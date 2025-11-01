@@ -1,0 +1,85 @@
+.hunger img{
+height: 350px;
+width: 320px;
+}
+header{
+    margin: 0;  
+    box-sizing: border-box;
+    justify-content: space-between;
+    display: flex;
+    background-color: aqua;
+    height: 80px;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+}
+.hunger video{
+    height: 350px;
+    width:500px ;
+}
+    .nutrition img{
+        height: 180px;
+        width: 140px;
+    }
+    .about img{
+        height: 170px;
+        width: 160px;
+        
+    }
+    
+
+    body{
+        background-color:navajowhite;
+        
+    }
+    h4{
+        text-align: center;
+        color:navy;
+    }
+    h2{
+        color: navy;
+    }
+    h2{
+        color: navy;
+    }
+    body img{
+        height: 170px;
+        width: 160px;
+    }
+    .hunger h1{
+      text-align: center;  
+      color: navy;
+    }
+    .hunger video{
+        height: 400px;
+        width: 100%;
+        overflow: hidden;
+    }
+    
+    .hunger img{
+        margin: 10px;
+    }
+    .hunger img{
+        float: right;
+    }
+    .hunger img ,video{
+        margin: 0;
+    }
+    .logo img{
+        text-align: left;
+    }
+    
+    section{
+        max-width: 800px;
+        margin: 32px auto;
+        padding: 32px;
+        background-color: beige;
+        border-radius: 12px;
+        box-shadow: 0 6px ;
+    }
+    footer{
+        text-align: center;
+        background-color:cadetblue;
+    }
+
